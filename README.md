@@ -11,8 +11,17 @@
 
 </div>
 
+### 🌷 selected projects
+ 
+| project | what it does | stack |
+|---|---|---|
+| 🏛️ [UMD Libraries IP Manager](https://github.com/umd-lib/ipmanager-django) | Production access-control system migrated from Ruby on Rails to Django, now live for thousands of UMD students and faculty | Python, Django |
+| ☀️ [Weather App](https://aanchalpuri.github.io/portfolio/weatherAppProject/weatherApp.html) | Real-time weather lookup built on a public API | JavaScript, API |
+| 🔍 [Image Search Engine](https://aanchalpuri.github.io/portfolio/imageSearchEngineProject/imageSearchEngine.html) | Image search and retrieval tool using an external API | JavaScript, API |
 
-
+*Full write-ups, live demos, and additional projects are available on my [portfolio site](https://aanchalpuri.github.io/portfolio/).*
+ 
+ ---
 
 
 <!--
