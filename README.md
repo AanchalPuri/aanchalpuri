@@ -11,6 +11,18 @@
 
 </div>
 
+---
+ 
+### 🧵 technologies I work with
+ 
+<div align="center">
+![Python](https://img.shields.io/badge/Python-E75480?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E75480?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
 ### 🌷 selected projects
  
 | project | what it does | stack |
