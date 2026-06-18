@@ -1,4 +1,19 @@
-## Hi there 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E75480&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aanchal+%F0%9F%8C%B8;CS+%2B+ML+%40+University+of+Maryland;Coder+by+day%2C+potter+by+studio+hours;Welcome+to+my+corner+of+GitHub+%E2%99%A5" alt="Typing SVG" />
+
+### turning raw, abstract ideas into tangible things — one line of code and one lump of clay at a time 🌷
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-E75480?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aanchalpuri.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanchal-puri)
+[![Instagram](https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aanchlada/)
+[![Email](https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puriaanchal7@gmail.com)
+
+</div>
+
+
+
+
 
 <!--
 **AanchalPuri/aanchalpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
