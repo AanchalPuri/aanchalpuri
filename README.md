@@ -4,6 +4,8 @@
 
 ### turning raw, abstract ideas into tangible things — one line of code and one lump of clay at a time 🌷
 
+![](https://komarev.com/ghpvc/?username=AanchalPuri&color=ff69b4&style=for-the-badge)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-E75480?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aanchalpuri.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanchal-puri)
 [![Instagram](https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aanchlada/)
