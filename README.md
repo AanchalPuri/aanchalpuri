@@ -15,6 +15,26 @@
 </div>
 
 ---
+
+### 🌸 About Me
+
+I'm a Computer Science sophomore at the University of Maryland, specializing in 
+Machine Learning, with hands-on experience building production systems 
+(currently used by thousands of UMD students and faculty) and applied ML 
+projects ranging from logistic regression to CNNs.
+
+I care about building technology that's both technically rigorous and 
+genuinely useful — from access-control systems at scale to models that 
+solve real problems. Outside of engineering, I throw ceramics and run 
+youth cultural dance programs across the DMV — different mediums, same 
+instinct: take a raw idea and shape it into something real.
+
+📫 Reach me at puriaanchal7@gmail.com or [LinkedIn](https://www.linkedin.com/in/aanchal-puri/) — always happy to talk 
+ML, full-stack projects, or pottery.
+
+🔗 Portfolio: [aanchalpuri.github.io/portfolio](https://aanchalpuri.github.io/portfolio/)
+
+---
  
 ### 🧵 technologies I work with
  
