@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-E75480?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aanchalpuri.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanchal-puri)
-[![Instagram](https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aanchlada/)
 [![Email](https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puriaanchal7@gmail.com)
 
 </div>
