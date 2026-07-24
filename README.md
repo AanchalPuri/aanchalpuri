@@ -23,10 +23,14 @@ Machine Learning, with hands-on experience building production systems
 (currently used by thousands of UMD students and faculty) and applied ML 
 projects ranging from logistic regression to CNNs.
 
+I'm especially drawn to applied machine learning, and I'm working toward a career building 
+models that are both technically rigorous and reliable enough to trust in 
+the real world.
+
 I care about building technology that's both technically rigorous and 
-genuinely useful — from access-control systems at scale to models that 
+genuinely useful, from access-control systems at scale to models that 
 solve real problems. Outside of engineering, I throw ceramics and run 
-youth cultural dance programs across the DMV — different mediums, same 
+youth cultural dance programs across the DMV. All are different mediums, same 
 instinct: take a raw idea and shape it into something real.
 
 📫 Reach me at puriaanchal7@gmail.com or [LinkedIn](https://www.linkedin.com/in/aanchal-puri/) — always happy to talk 
