@@ -27,9 +27,7 @@ I'm especially drawn to applied machine learning, and I'm working toward a caree
 models that are both technically rigorous and reliable enough to trust in 
 the real world.
 
-I care about building technology that's both technically rigorous and 
-genuinely useful, from access-control systems at scale to models that 
-solve real problems. Outside of engineering, I throw ceramics and run 
+Outside of engineering, I throw ceramics and run 
 youth cultural dance programs across the DMV. All are different mediums, same 
 instinct: take a raw idea and shape it into something real.
 
